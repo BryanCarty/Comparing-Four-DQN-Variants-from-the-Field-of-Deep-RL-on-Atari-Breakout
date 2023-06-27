@@ -1,4 +1,4 @@
-# Comparing_Four_DQN_Variants_from_the_Field_of_Deep_RL_on_Atari_Breakout
+# Comparing Four DQN Variants from the Field of Deep RL on Atari Breakout
 
 This repository contains the project report for my final year project, 'Comparing Four DQN Variants from the Field of Deep Reinforcement Learning on Atari Breakout'
 
